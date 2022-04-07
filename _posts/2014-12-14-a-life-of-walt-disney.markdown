@@ -5,16 +5,16 @@ categories:
 - history
 tags:
 - disney
-layout: post
-last_modified_at: 2014-12-14 23:00:00 -02:00
+last_modified_at: 
 excerpt: Walter Elias Disney was an American entrepreneur, cartoonist, animator, voice
   actor, and film producer. As a prominent...
 image:
-  feature: walt-disney.jpg
+  feature: "/uploads/linx2.png"
   topPosition: 0px
 bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: false
+layout: post
 ---
 
 Source: [Wikipedia](https://en.wikipedia.org/wiki/Walt_Disney)
