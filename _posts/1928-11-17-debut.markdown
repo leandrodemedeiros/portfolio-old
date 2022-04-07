@@ -1,18 +1,22 @@
 ---
+title: Mickey Mouse's Debut
+date: 1928-11-17 22:00:00 -03:00
+categories:
+- history
+tags:
+- mickey
 layout: post
-title:  "Mickey Mouse's Debut"
-date:   1928-11-18 01:00:00
-last_modified_at:  1928-11-18 01:00:00
-excerpt: "Disney had Ub Iwerks secretly begin animating a new cartoon while still under contract with Universal..."
-categories: history
-tags:  mickey
+last_modified_at: 1928-11-17 22:00:00 -03:00
+excerpt: Disney had Ub Iwerks secretly begin animating a new cartoon while still under
+  contract with Universal...
 image:
   feature: steamboat.jpg
-  topPosition: -50px
+  topPosition: "-50px"
 bgContrast: dark
 bgGradientOpacity: darker
-syntaxHighlighter: no
+syntaxHighlighter: false
 ---
+
 Source: [Wikipedia](https://en.wikipedia.org/wiki/Mickey_Mouse)
 
 **Disney** had Ub Iwerks secretly begin animating a new cartoon while still under contract with Universal. The cartoon was co-directed by Walt Disney and Ub Iwerks. Iwerks was the main animator for the short, and reportedly spent six weeks working on it. In fact, Iwerks was the main animator for every Disney short released in 1928 and 1929. Hugh Harman and Rudolf Ising also assisted Disney during those years. They had already signed their contracts with Charles Mintz, but he was still in the process of forming his new studio and so for the time being they were still employed by Disney. This short would be the last they animated under this somewhat awkward situation.[19]

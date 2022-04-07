@@ -1,18 +1,21 @@
 ---
+title: Black and white films
+date: 1929-03-27 22:00:00 -03:00
+categories:
+- history
+tags:
+- mickey
 layout: post
-title:  "Black and white films"
-date:   1929-03-28 01:00:00
-date:   1929-03-28 01:00:00
-excerpt: "In Mickey's early films he was often characterized not as a hero, but as an ineffective young suitor to Minnie Mouse..."
-categories: history
-tags:  mickey
+excerpt: In Mickey's early films he was often characterized not as a hero, but as
+  an ineffective young suitor to Minnie Mouse...
 image:
   feature: mickey-1929.jpg
-  topPosition: -50px
+  topPosition: "-50px"
 bgContrast: dark
 bgGradientOpacity: darker
-syntaxHighlighter: no
+syntaxHighlighter: false
 ---
+
 Source: [Wikipedia](https://en.wikipedia.org/wiki/Mickey_Mouse)
 
 In Mickey's early films he was often characterized not as a hero, but as an ineffective young suitor to Minnie Mouse. The Barn Dance (March 14, 1929) is the first time in which Mickey is turned down by Minnie in favor of Pete.
