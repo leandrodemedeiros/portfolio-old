@@ -1,47 +1,41 @@
 ---
 title: How To Choose An Interior Designer
-subtitle: >-
-  Interior design is “the art or process of designing the interior, often
+date: 2017-03-26 00:00:00 -03:00
+subtitle: Interior design is “the art or process of designing the interior, often
   including the exterior, of a room or building”.
-excerpt: >-
-  Id massa aliquet arcu accumsan lorem amet accumsan commodo odio cubilia ac eu
-  interdum placerat placerat arcu commodo lobortis adipiscing semper ornare
-  pellentesque.
-date: '2017-03-26'
+excerpt: Id massa aliquet arcu accumsan lorem amet accumsan commodo odio cubilia ac
+  eu interdum placerat placerat arcu commodo lobortis adipiscing semper ornare pellentesque.
 thumb_image: images/10_thumb.jpg
 thumb_image_alt: Modern white table
 seo:
   title: How To Choose An Interior Designer
-  description: >-
-    Id massa aliquet arcu accumsan lorem amet accumsan commodo odio cubilia ac
-    eu interdum placerat
+  description: Id massa aliquet arcu accumsan lorem amet accumsan commodo odio cubilia
+    ac eu interdum placerat
   extra:
-    - name: 'og:type'
-      value: article
-      keyName: property
-    - name: 'og:title'
-      value: How To Choose An Interior Designer
-      keyName: property
-    - name: 'og:description'
-      value: >-
-        Id massa aliquet arcu accumsan lorem amet accumsan commodo odio cubilia
-        ac eu interdum placerat
-      keyName: property
-    - name: 'og:image'
-      value: images/10.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: How To Choose An Interior Designer
-    - name: 'twitter:description'
-      value: >-
-        Id massa aliquet arcu accumsan lorem amet accumsan commodo odio cubilia
-        ac eu interdum placerat
-    - name: 'twitter:image'
-      value: images/10.jpg
-      relativeUrl: true
+  - name: og:type
+    value: article
+    keyName: property
+  - name: og:title
+    value: How To Choose An Interior Designer
+    keyName: property
+  - name: og:description
+    value: Id massa aliquet arcu accumsan lorem amet accumsan commodo odio cubilia
+      ac eu interdum placerat
+    keyName: property
+  - name: og:image
+    value: images/10.jpg
+    keyName: property
+    relativeUrl: true
+  - name: twitter:card
+    value: summary_large_image
+  - name: twitter:title
+    value: How To Choose An Interior Designer
+  - name: twitter:description
+    value: Id massa aliquet arcu accumsan lorem amet accumsan commodo odio cubilia
+      ac eu interdum placerat
+  - name: twitter:image
+    value: images/10.jpg
+    relativeUrl: true
 layout: post
 ---
 
