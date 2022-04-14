@@ -553,8 +553,8 @@ input, select, textarea {
 		width: 90%;
 	}
 		#header img{
-			border-radius: 50%;
 			border: 1px solid white;
+			border-radius: 50%;
 		}
 
 		#header h1 {
